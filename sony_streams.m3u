@@ -2,7 +2,7 @@
 #=================================
 # Developed By: OMNIX EMPIRE
 # Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-01-03 09:37 PM
+# Last Updated: 2026-01-03 10:14 PM
 # Disclaimer:
 # This tool does NOT host any content.
 # It aggregates publicly available data for informational purposes only.
@@ -44,6 +44,8 @@ https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=17674
 https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1767486601~acl=/*~id=b9ff3ce09da44fd73a46f94e941a9079-1767443400143~hmac=cd06c4ea8e0ed572c90622d998422a14aa0fb2e05e60d9454175ddcfe0a6545f
 #EXTINF:-1 tvg-id="SONY TEN 4 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sony Network",SONY TEN 4 HD
 https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1767486601~acl=/*~id=b9ff3ce09da44fd73a46f94e941a9079-1767443400143~hmac=cd06c4ea8e0ed572c90622d998422a14aa0fb2e05e60d9454175ddcfe0a6545f
+#EXTINF:-1 tvg-id="SONY TEN 4" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="Sony Network",SONY TEN 4
+https://dishmt.slivcdn.com/hls/live/2020437-b/ten4sd/master.m3u8?hdnea=exp=1767486601~acl=/*~id=b9ff3ce09da44fd73a46f94e941a9079-1767443400143~hmac=cd06c4ea8e0ed572c90622d998422a14aa0fb2e05e60d9454175ddcfe0a6545f
 #EXTINF:-1 tvg-id="SONY TEN 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sony Network",SONY TEN 5 HD
 https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1767486601~acl=/*~id=b9ff3ce09da44fd73a46f94e941a9079-1767443400143~hmac=cd06c4ea8e0ed572c90622d998422a14aa0fb2e05e60d9454175ddcfe0a6545f
 #EXTINF:-1 tvg-id="SONY TEN 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sony Network",SONY TEN 5
